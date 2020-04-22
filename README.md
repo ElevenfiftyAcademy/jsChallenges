@@ -7,7 +7,7 @@ These are organized by topic folders. Until v1.0 (when this goes public), feel f
 
 ## Format
 
-Instead of .js files with comments, you can write markdown files with code, which render well on GitHub and elsewhere. You can do a code block in markdown by enclosing it in three backticks. Immediately after the opening backticks, write "js" to mark it as JS syntax for highlighting purposes. Example:
+Instead of .js files with comments, you can write markdown files with code, which render well on GitHub and in VS Code. You can do a code block in markdown by enclosing it in three backticks. Immediately after the opening backticks, write "js" to mark it as JS syntax for highlighting purposes. Example:
 
 ```js
 import 'somelibrary';
