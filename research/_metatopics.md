@@ -8,3 +8,4 @@
   - pros/cons
 - debugging tools and techniques
 - programming paradigms
+- UI/UX
