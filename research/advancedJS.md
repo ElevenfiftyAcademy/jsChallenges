@@ -8,3 +8,4 @@
 - ECMAScript (vs. JavaScript)
 - TypeScript
 - optional chaining
+- default arguments (and how we used to do this before ES6)

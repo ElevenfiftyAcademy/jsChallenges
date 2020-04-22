@@ -20,4 +20,4 @@ console.log(document);
 ## To-do
 
 - [ ] import existing challenges
-- [ ] write longer README for when/if students access these
+- [ ] write longer/different README for when/if students access these

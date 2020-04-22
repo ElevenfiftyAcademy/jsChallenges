@@ -14,5 +14,5 @@ You could use these as puzzles individually or for the class if you have free ti
 
 ## references (please add to this!)
 
-[wtfjs github](https://github.com/denysdovhan/wtfjs)
-[arrays](https://hackernoon.com/oh-my-goodnejs-arrays-f9e9e4f03c97)
+- [wtfjs github](https://github.com/denysdovhan/wtfjs)
+- [arrays](https://hackernoon.com/oh-my-goodnejs-arrays-f9e9e4f03c97)

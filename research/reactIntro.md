@@ -6,7 +6,7 @@
 - Higher Order Components
 
 
-# other topics that might pair well at this point
+## other topics that might pair well at this point
 
 - package.json
 - REST APIs
