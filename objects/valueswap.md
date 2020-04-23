@@ -37,11 +37,6 @@ console.log(newObj);
 Here we use square brackets to get the value of the properties we pass in as strings.
 
 ```js
-const person = {
-  fName: 'Tom',
-  lName: 'McClellan'
-};
-
 const food = {
   food1: 'Steak',
   food2: 'Tacos'
@@ -68,3 +63,7 @@ console.log(newObject, 'Changed Object');
 ## notes
 
 The correct solution makes use of `Object.assign`, which you might want to discuss.
+
+The core lessons here are
+1. dot notation vs. square bracket notation for objects, and
+2. variables store references to objects, so to create a new object with the same keys and values we cannot simply say `obj2 = obj1`.
