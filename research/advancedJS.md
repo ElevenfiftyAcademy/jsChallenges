@@ -10,3 +10,4 @@
 - optional chaining
 - default arguments (and how we used to do this before ES6)
 - Symbols
+- typed arrays
