@@ -21,16 +21,16 @@ Bonus: how do we break a line?
 ## a solution
 
 ```js
-let firstName = 'Tyler';
-let lastName = 'Shelton';
-let houseNumber = 12175;
-let street = 'Visionary Way';
-let city = 'Fishers';
-let state = 'IN';
-let zipcode = 46038;
+let firstName = 'Bill';
+let lastName = 'Gates';
+let houseNumber = 7400;
+let street = 'NE 18th Street';
+let city = 'Medina';
+let state = 'WA';
+let zipcode = 98039;
 
 console.log(firstName, lastName + ',', houseNumber, street + ',', city + ',', state, zipcode);
-// Tyler Shelton, 12175 Visionary Way, Fishers, IN 46038
+// Bill Gates, 7400 NE 18th Street, Medina, WA 98039
 ```
 
 Bonus solution:
