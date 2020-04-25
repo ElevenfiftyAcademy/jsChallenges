@@ -16,34 +16,43 @@ These are ordered from easier to harder, so if you can only get the first two or
 
 ```js
 function myForEach (arr, f) {
-  for (let x of arr) {
-    f(x);
+  for (let x of arr) {  // for every element in the array...
+    f(x);               // apply f to it
   }
 }
+
 
 function myMap (arr, f) {
-  let mappedArr = [];
-  for (let x of arr) {
-    mappedArr.push(f(x));
+  let newArr = [];      // create a new array
+  
+  for (let x of arr) {  // for every element in the array...
+    newArr.push(f(x));  // apply f to it and push the result to the new array
   }
-  return mappedArr;
+
+  return newArr;        // return the new array
 }
+
 
 function myFilter (arr, f) {
-  let filteredArr = [];
-  for (let x of arr) {
-    if (f(x)) {
-      filteredArr.push(x);
+  let filteredArr = [];     // create a new array
+
+  for (let x of arr) {      // for every element in the array...
+    if (f(x)) {             // if f(x) is true...
+      filteredArr.push(x);  // push x to the new filtered array
     }
   }
-  return filteredArr;
+  
+  return filteredArr;       // then return the filtered array
 }
 
+
 function myReduce (arr, f, init) {
-  let currval = init;
-  for (let x of arr) {
-    currval = f(currval, x);
-  }
-  return currval;
+  let currval = init;         // start the current value off as the initial value
+
+  for (let x of arr) {        // for every element in the array...
+    currval = f(currval, x);  // apply f to the current value and the current 
+  }                           //     element to get the new value
+
+  return currval;             // return the final value
 }
 ```
