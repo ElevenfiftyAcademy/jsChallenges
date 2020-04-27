@@ -15,9 +15,25 @@ let xs = new Set([1,2,3]);
 console.log(document);
 ```
 
+We also want YAML headers at the start of each document. These look like this:
+
+```yaml
+---
+title: 
+author: anonymous
+difficulty: 2.5
+tags: [functions, arrays, array methods]
+---
+```
+
+- Proposal: difficulty should be increments of .5.
+- If you write a new challenge, add your name as author (so we can complain to you 😉).
+- If you add a challenge from somewhere else on the internet, you can add a `source` field with a URL.
+
 
 
 ## To-do
 
 - [ ] import existing challenges
+- [ ] finish style guide
 - [ ] write longer/different README for when/if students access these
