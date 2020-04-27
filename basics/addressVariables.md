@@ -40,3 +40,5 @@ console.log(firstName, lastName + '\n' + houseNumber, street + ',', city + '\n' 
 ```
 
 For both, notice `console.log` automatically puts spaces between the things we give it (arguments), so in order to *not* have the space (like before the commas), we need to use the `+` concatenation operator.
+
+`\n` might not work on Windows.
