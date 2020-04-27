@@ -1,3 +1,10 @@
+---
+title: Zipper challenge
+author: anonymous
+difficulty: 2
+tags: [arrays, array methods]
+---
+
 # Zipper challenge
 
 ## the challenge

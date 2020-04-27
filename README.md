@@ -10,6 +10,29 @@ These are organized by topic folders. Until v1.0 (when this goes public), feel f
 
 Instead of .js files with comments, you can write [markdown files](https://github.github.com/gfm/) with code, which render well on GitHub and in VS Code.
 
+Typical format is the following (showing the raw markdown here):
+
+````markdown
+[YAML block goes here (see "Headers" below)]
+
+# Amazing technicolor array challenge
+
+## the challenge
+
+Do a thing
+- notes
+- provisos
+- warnings
+- etc.
+
+## a solution
+
+```js
+// solution goes here
+```
+````
+
+
 
 ### Code
 
@@ -35,7 +58,7 @@ We also want YAML headers at the start of each document. This is for later, when
 ```yaml
 ---
 title: My super cool array challenge
-author: anonymous
+author: John Q. Eleven-Fifty
 difficulty: 2.5
 tags: [functions, arrays, array methods]
 ---
@@ -52,5 +75,7 @@ tags: [functions, arrays, array methods]
 ## To-do
 
 - [ ] import existing challenges
+- [ ] make sure all challenges have solutions
+- [ ] difficulty ratings: standards and review
 - [ ] finish style guide
 - [ ] write longer/different README for when/if students access these

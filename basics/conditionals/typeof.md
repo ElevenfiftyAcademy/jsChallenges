@@ -1,3 +1,11 @@
+---
+title: typeof/conditionals
+author: anonymous
+difficulty: 1.5
+tags: [conditionals, keywords]
+---
+
+
 # typeof/conditionals challenge
 
 ## the challenge
@@ -23,7 +31,7 @@ Add a condition to check if the value is an array.
 
 
 
-## solutions
+## possible solutions
 
 ### Bronze
 

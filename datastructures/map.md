@@ -1,5 +1,13 @@
+---
+title: Map challenge
+author: Eli T. Drumm
+difficulty: 2
+tags: [data structures, Map]
+---
+
 # Map challenge
 
+## the challenge
 
 1. Create a new Map object `petMap` where the key "cat" has the value 2, "dog" has the value 3, "fish" has the value 1, and "parakeet" has the value 0. Hint: you can do this either by passing an array of arrays to the Map constructor, or by creating an empty Map and using `.set` for each key-value pair individually.
 2. Using `.set`, reassign "cat" to be 5. Check the size of `petMap` to make sure there are still 4 keys in it.
@@ -10,7 +18,7 @@
 
 
 
-A solution:
+## a solution
 
 ```js
 // 1

@@ -1,3 +1,10 @@
+---
+title: DIY array methods
+author: Eli T. Drumm
+difficulty: 2.5
+tags: [arrays, array methods]
+---
+
 # Recreating the array methods
 
 ## the challenge

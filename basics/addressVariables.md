@@ -1,3 +1,10 @@
+---
+title: Variables
+author: anonymous
+difficulty: 1
+tags: [variables, types]
+---
+
 # Variables challenge
 
 ## the challenge
@@ -41,4 +48,4 @@ console.log(firstName, lastName + '\n' + houseNumber, street + ',', city + '\n' 
 
 For both, notice `console.log` automatically puts spaces between the things we give it (arguments), so in order to *not* have the space (like before the commas), we need to use the `+` concatenation operator.
 
-`\n` might not work on Windows.
+`\n` might not work on Windows (use `\r\n` instead).

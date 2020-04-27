@@ -1,8 +1,8 @@
 ---
-title:
-author:
-difficulty:
-tags:
+title: Methods of Object
+author: anonymous
+difficulty: 2
+tags: [Object, object methods]
 ---
 
 # Methods of Object

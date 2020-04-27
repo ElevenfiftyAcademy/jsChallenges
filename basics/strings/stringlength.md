@@ -1,3 +1,10 @@
+---
+title: Whose name is longer?
+author: anonymous
+difficulty: 1.5
+tags: [strings, conditionals, string methods]
+---
+
 # Whose name is longer?
 
 ## the challenge

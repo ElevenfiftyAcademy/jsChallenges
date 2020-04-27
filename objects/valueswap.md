@@ -1,9 +1,17 @@
+---
+title: 'Objects: swapping values'
+author: anonymous
+difficulty: 1.5
+tags: [objects]
+---
+
 # Objects: swapping values
 
 ## the challenge
 
-Create a function that swaps the value of any 2 specified properties in a object, make sure you don't mutate (change) the original object. 
-Your function may have three parameters: the original object, prop1, and prop2.
+- Create a function that swaps the value of any two specified properties in a object.
+- Make sure you don't mutate (change) the original object. 
+- Your function may have three parameters: the original object, `prop1`, and `prop2`.
 
 
 ## solutions

@@ -1,3 +1,10 @@
+---
+title: FizzBuzz
+author: anonymous
+difficulty: 1.5
+tags: [conditionals, operators]
+---
+
 # FizzBuzz
 
 Store a number in a variable `fb`.
