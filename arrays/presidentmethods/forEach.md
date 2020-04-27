@@ -6,7 +6,7 @@ tags: [arrays, array methods]
 ---
 
 
-# Presidential array methods: forEach
+# Presidential array methods: `forEach`
 
 ## the challenge
 
