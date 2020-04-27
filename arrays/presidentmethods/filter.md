@@ -1,7 +1,7 @@
 ---
 title: 'Presidential array methods: filter'
 author: anonymous
-difficulty: 1.5
+difficulty: 2
 tags: [arrays, array methods]
 ---
 
