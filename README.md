@@ -27,10 +27,16 @@ Do a thing
 
 ## a solution
 
+[Possible explanation of solution]
+
 ```js
 // solution goes here
 ```
 ````
+
+Feel free to add a level-two "Context" section before the challenge to explain where this would be used.
+
+Also you can add a level-two "Notes" section after the solution with any other pertinent information.
 
 
 

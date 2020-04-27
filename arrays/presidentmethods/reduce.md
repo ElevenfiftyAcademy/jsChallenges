@@ -29,8 +29,8 @@ function sumAllYears (presArray) {
 ### the challenge
 
 Using the `Array.prototype.reduce()` method, find the total number of years that presidents have lived.
-You will need to implement logic that checks if the president is still currently living.
-If the president IS still currently living, use the current year.
+- You will need to implement logic that checks if the president is still currently living.
+- If the president IS still currently living, use the current year.
 
 ### a solution
 
