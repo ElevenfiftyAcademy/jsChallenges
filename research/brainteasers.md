@@ -1,3 +1,10 @@
+---
+title: JS brain teasers
+author: Eli T. Drumm
+difficulty: 2.5
+tags: [puzzles, vanilla JS]
+---
+
 # brain teasers
 
 You could use these as puzzles individually or for the class if you have free time in Red or something.

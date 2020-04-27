@@ -1,3 +1,10 @@
+---
+title: React intro research challenge
+author: Alecx Moritz
+difficulty: 1
+tags: [research, react]
+---
+
 # React intro research challenge
 
 - LifeCycle Methods

@@ -43,6 +43,7 @@ tags: [functions, arrays, array methods]
 
 - We still need to agree on standards for difficulty ratings.
 - Proposal: difficulty should be increments of .5.
+- For most of the preexisting challenges in the source material, I have credited them to 'anonymous', but feel free to change this if you know who wrote them.
 - If you write a new challenge, add your name as author (so we can complain to you 😉).
 - If you add a challenge from somewhere else on the internet, you can add a `source` field with a URL.
 

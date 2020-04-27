@@ -1,3 +1,10 @@
+---
+title:
+author:
+difficulty:
+tags:
+---
+
 # Pig Latin Challenge
 
 ## the challenge

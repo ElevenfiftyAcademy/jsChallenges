@@ -1,5 +1,11 @@
+---
+title: Palindromes
+author: anonymous
+difficulty: 2
+tags: [strings, string methods]
+---
 
-# Palindrome challenge
+# Palindromes
 
 ## the challenge
 

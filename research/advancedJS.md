@@ -1,3 +1,10 @@
+---
+title: Advanced JS research challenge
+author: Eli T. Drumm
+difficulty: 2.5
+tags: [research, vanilla JS]
+---
+
 # advanced JS topics
 
 - object destructuring

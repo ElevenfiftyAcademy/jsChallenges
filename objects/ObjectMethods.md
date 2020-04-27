@@ -1,3 +1,10 @@
+---
+title:
+author:
+difficulty:
+tags:
+---
+
 # Methods of Object
 
 ## the challenge

@@ -1,3 +1,10 @@
+---
+title: General JS research challenge
+author: Eli T. Drumm
+difficulty: 1
+tags: [research, vanilla JS]
+---
+
 # General JS topics
 
 - global objects
