@@ -1,4 +1,15 @@
-# Two-parameter function challenge
+---
+title: Two-parameter function
+author: anonymous
+difficulty: 1.5
+tags: [functions, strings]
+---
+
+# Two-parameter function
+
+## context
+
+Practice with function parameters
 
 ## the challenge
 
