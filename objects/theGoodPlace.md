@@ -7,7 +7,7 @@ tags: [objects, loops]
 
 # Digging into objects: The Good Place
 
-## the object in question
+## the challenge
 
 ```js
 let theGoodPlace = {
@@ -52,7 +52,6 @@ let theGoodPlace = {
 ```
 
 
-## the challenge
 
 Using the above object:
 1. `console.log` the description
