@@ -1,5 +1,5 @@
 ---
-title: 'Digging into Objects: The Good Place'
+title: 'Digging into objects: The Good Place'
 author: anonymous
 difficulty: 1.5
 tags: [objects, loops]

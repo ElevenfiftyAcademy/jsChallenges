@@ -14,7 +14,7 @@ let muppets = ['Kermit', 'Fozzie', 'Gonzo', 'Rowlf', 'Piggy', 'Scooter', 'Beaker
 
 let characters = [['Daphne', 'Fred', 'Velma', 'Shaggy', 'Scooby'],
                   ['Fred', 'Wilma', 'Barney', 'Betty', 'Dino'],
-                  ['George', 'Elroy', 'Judy', 'Jane', 'Rosie']]
+                  ['George', 'Elroy', 'Judy', 'Jane', 'Rosie']];
 ```
 
 1. Go into the `muppets` array and assign 'Scooter' to a variable. Then `console.log` the variable.
@@ -37,7 +37,7 @@ console.log(muppets[0] + ' the frog');
 console.log(characters[1][2]);
 
 // 4
-console.log(`${characters[0][3]} and ${characters[0][4]} love sandwiches`)
+console.log(`${characters[0][3]} and ${characters[0][4]} love sandwiches`);
 ```
 
 
